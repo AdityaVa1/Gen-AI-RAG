@@ -1,3 +1,4 @@
-Hey this is am image
+Hey 
 
-hello image: ![alt text](https://github.com/AdityaVa1/Gen-AI-RAG/blob/main/images/blah.png) ok!
+
+![alt text](https://github.com/AdityaVa1/Gen-AI-RAG/blob/main/images/blah.png)
