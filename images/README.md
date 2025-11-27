@@ -1,2 +1,1 @@
-!\[Our Commets](https://github.com/images/comments\_ours.png)
-
+![alt text](https://github.com/AdityaVa1/Gen-AI-RAG/main/images/blah.png)
