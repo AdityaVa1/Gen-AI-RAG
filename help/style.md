@@ -8,7 +8,7 @@
 
 |yours|LLM|
 |---|---|
-|![Our Commets](https://github.com/CMPUT-461-561/f25-asn5-b-AdityaVa1/images/our_comments.png)|![ChatGPT's Commets](https://github.com/CMPUT-461-561/f25-asn5-b-AdityaVa1/images/gpt_comments.png)|
+|![Our Commets](https://github.com/AdityaVa1/Gen-AI-RAG/blob/main/help/images/our_comments.png)|![ChatGPT's Commets](https://github.com/AdityaVa1/Gen-AI-RAG/blob/main/help/images/gpt_comments.png)|
 
 **Discussion:**
 
